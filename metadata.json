@@ -1,0 +1,6 @@
+{
+  "name": "Alpha Academy",
+  "description": "Alpha Academy - Badini Kurdish educational video platform with secure subscription access and student progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
